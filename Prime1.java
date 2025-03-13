@@ -1,5 +1,5 @@
+// The number is prime or not.
 import java.util.Scanner;
-
 class Prime {
     void checkPrime(int n) {
         if (n <= 1) { // 0 and 1 are not prime numbers

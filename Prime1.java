@@ -1,4 +1,4 @@
-// The number is prime or not.
+// Check the number is prime or not.
 import java.util.Scanner;
 class Prime {
     void checkPrime(int n) {
